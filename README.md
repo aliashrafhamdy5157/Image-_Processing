@@ -140,19 +140,17 @@ Potential directions for improving performance include:
 - Python
 - OpenCV
 - NumPy
-- scikit-image
 - Matplotlib
-- Google Colab
 
 ---
 
-## Disclaimer
 
-This project intentionally avoids machine learning techniques to explore the practical limits of classical computer vision methods. The results reflect the inherent challenges and limitations of this approach.
 
----
-
-## Author
+## Authors
 
 Ali Ashraf Gomma  
+Adel Waheed 
+ahmed tamer 
+asaad ramzy
+kerollous bassem
 Computer Engineering Student
